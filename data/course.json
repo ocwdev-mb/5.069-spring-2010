@@ -1,0 +1,51 @@
+{
+  "term": "Spring",
+  "year": "2010",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Chemistry"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Atomic, Molecular, Optical Physics"
+    ],
+    [
+      "Science",
+      "Chemistry",
+      "Analytical Chemistry"
+    ]
+  ],
+  "legacy_uid": "c4cac70a-cab6-04f7-20b9-cb18e8303a75",
+  "instructors": {
+    "content": [
+      "bce7a37b-a587-f80e-c791-4306f8a8ee97"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "554135c4-6af1-8732-03e1-1f6560f42e7c",
+    "website": "5-069-crystal-structure-analysis-spring-2010"
+  },
+  "course_title": "Crystal Structure Analysis",
+  "course_description": "This course covers the following topics: X-ray diffraction: symmetry, space groups, geometry of diffraction, structure factors, phase problem, direct methods, Patterson methods, electron density maps, structure refinement, how to grow good crystals, powder methods, limits of X-ray diffraction methods, and structure data bases.\n",
+  "department_numbers": [
+    "5"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "5.069",
+  "course_image_thumbnail": {
+    "content": "1e17c3be-8fb1-fde9-cfaa-fb9d623c01bb",
+    "website": "5-069-crystal-structure-analysis-spring-2010"
+  },
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "site_uid": "a3c5c638-0c83-40ff-b183-9e5cdda38415",
+  "site_short_id": "5.069-spring-2010",
+  "title": "Course Metadata"
+}
